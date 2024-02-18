@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 2. cd Real-Estate-Housing
 3. npm install
 4. npm start
-# Open http://localhost:3000 in your web browser to view the app.
+## Open http://localhost:3000 in your web browser to view the app.
 
 ## Deployment
 This project is deployed using vercel app  and accessible online. Visit Real Estate Housing Platform to explore the live version. realtor-v2.vercel.app/
